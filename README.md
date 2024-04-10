@@ -1,22 +1,17 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+# NM_JAYASHREE_FRIDAYBATCH_FSWD_PROJECT
 
 
-Project implemented by: 
+Name: Jayashree.S 
 
 
-Name:
+ID:au960221104062
 
 
-ID:
+College name:Arunachala College of Engineering for Women
+ 
+
+username:student
 
 
-College name:
-
-
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password:12345
 
